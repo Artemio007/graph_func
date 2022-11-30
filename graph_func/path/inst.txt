@@ -1,0 +1,4 @@
+                                    Instructions
+1. You can entering x like list and split numbers for spase.
+2. Select function: linear: 1, quadratic: 2, cubic: 3, sin: 4, cos: 5, arc_sin: 6, arc_cos: 7.
+3. Func arccos and arcsin should be in range [-1:1].
